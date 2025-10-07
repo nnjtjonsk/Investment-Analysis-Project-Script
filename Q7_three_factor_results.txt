@@ -1,0 +1,7 @@
+# A tibble: 4 × 5
+  term         estimate std.error statistic     p.value
+  <chr>           <dbl>     <dbl>     <dbl>       <dbl>
+1 (Intercept)   0.0255   0.00633       4.02 0.000141   
+2 beta          0.00649  0.00118       5.52 0.000000516
+3 Avg_Log_Size -0.00111  0.000345     -3.22 0.00195    
+4 Avg_BM       -0.00502  0.00197      -2.55 0.0130     

@@ -1,0 +1,13 @@
+Question 1 Results...
+$avg_monthly_return
+[1] 0.01472334
+
+$monthly_risk_sd
+[1] 0.04101682
+
+$var_eur
+[1] -30772.48
+
+$guise_10_percent
+[1] -0.06170547
+

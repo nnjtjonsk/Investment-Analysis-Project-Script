@@ -1,0 +1,8 @@
+Question 6: Security Market Line (SML) Estimation Results
+Regression: Avg_Excess_Return ~ Intercept + beta
+--------------------------------------------------
+# A tibble: 2 × 5
+  term        estimate std.error statistic     p.value
+  <chr>          <dbl>     <dbl>     <dbl>       <dbl>
+1 (Intercept)  0.00382   0.00130      2.94 0.00442    
+2 beta         0.00729   0.00124      5.86 0.000000124

@@ -1,0 +1,14 @@
+Question 3 Results: Input Data (Last 10 Years)
+
+Individual Asset Performance:
+     TICKER         ret         sd
+ORCL   ORCL 0.015126512 0.07167847
+MSFT   MSFT 0.021354347 0.06307371
+XOM     XOM 0.008072537 0.07804798
+IBM     IBM 0.008678405 0.06690496
+AAPL   AAPL 0.021847198 0.07975321
+WMT     WMT 0.012515463 0.05346092
+
+Value-Weighted Portfolio of the 6 Assets:
+        TICKER        ret         sd
+1 VW Portfolio 0.01867698 0.05344422
